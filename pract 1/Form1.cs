@@ -30,7 +30,7 @@ namespace pract_1
             }
             else
             {
-                MessageBox.Show("Введите значения!!!");
+                MessageBox.Show("Введите значения.");
             }
             
         }
